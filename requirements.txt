@@ -1,0 +1,7 @@
+gradio
+langrs
+torch
+rasterio
+geopandas
+shapely
+Pillow
