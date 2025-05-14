@@ -169,4 +169,4 @@ with gr.Blocks() as demo:
         outputs=mask_output
     )
 
-demo.run()
+demo.run(debug=True)
